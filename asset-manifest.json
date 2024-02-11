@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ecommerce-app/static/css/main.68158e9c.css",
+    "main.js": "/ecommerce-app/static/js/main.c1ac9ecd.js",
+    "static/media/tab3.jpg": "/ecommerce-app/static/media/tab3.4a572a2cbe4e802b546f.jpg",
+    "static/media/tab.jpg": "/ecommerce-app/static/media/tab.01a5416221bf2559a442.jpg",
+    "static/media/tab1.jpg": "/ecommerce-app/static/media/tab1.fd21bd40531e95e996ea.jpg",
+    "static/media/tab2.jpg": "/ecommerce-app/static/media/tab2.99b77ed36cf42f977de6.jpg",
+    "static/media/blog-1.jpg": "/ecommerce-app/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
+    "static/media/watch-1.jpeg": "/ecommerce-app/static/media/watch-1.b5591642ecee8459c8ee.jpeg",
+    "static/media/menu.svg": "/ecommerce-app/static/media/menu.0fd9209b0e37744ccd2a6bbe7be97bd1.svg",
+    "static/media/cart.svg": "/ecommerce-app/static/media/cart.abfdf752dc482f1a9627d3f76562131d.svg",
+    "index.html": "/ecommerce-app/index.html",
+    "static/media/compare.svg": "/ecommerce-app/static/media/compare.1c839d87cb27f1e45f1a3bc4a9e300ea.svg",
+    "static/media/view.svg": "/ecommerce-app/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
+    "static/media/wish.svg": "/ecommerce-app/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
+    "static/media/prodcompare.svg": "/ecommerce-app/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
+    "static/media/add-cart.svg": "/ecommerce-app/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
+    "static/media/wishlist.svg": "/ecommerce-app/static/media/wishlist.e2b76316c68ed8ae4128cca85f622430.svg",
+    "static/media/user.svg": "/ecommerce-app/static/media/user.cd86e0566bbf017c8167249084d368e3.svg",
+    "static/media/cross.svg": "/ecommerce-app/static/media/cross.bf9c2c127cb9cecabfe621ba624f3814.svg",
+    "main.68158e9c.css.map": "/ecommerce-app/static/css/main.68158e9c.css.map",
+    "main.c1ac9ecd.js.map": "/ecommerce-app/static/js/main.c1ac9ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68158e9c.css",
+    "static/js/main.c1ac9ecd.js"
+  ]
+}
